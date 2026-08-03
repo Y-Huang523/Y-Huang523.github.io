@@ -40,18 +40,18 @@ My research focuses on:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AMI2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Zhou, Z., Chen, H., Yang, J., Jin, H., Xu, F., Jiang, Y., Jiang, A, `Huang, Y.`, Huang, J., He, Y., Sun, D. & Chen, S. (2026). A Photocurable Conductive Hydrogel for Force Sensing of Cross-Type Muscle Tissue. *ACS Applied Materials & Interfaces*, 18(11), 16045-16055. 
+-	Zhou, Z., Chen, H., Yang, J., Jin, H., Xu, F., Jiang, Y., Jiang, A, **Huang, Y.**, Huang, J., He, Y., Sun, D. & Chen, S. (2026). A Photocurable Conductive Hydrogel for Force Sensing of Cross-Type Muscle Tissue. *ACS Applied Materials & Interfaces*, 18(11), 16045-16055. 
 [[HTML]](https://doi.org/10.1021/acsami.5c23060) 
 
 </div>
 </div>
 
 
--	Luo, Z., Wang, H., `Huang, Y.`, Shen, P., Zheng, E., & Zhang, H. (2025). Nondestructive detection of CFRP subsurface defects using transient lock-in thermography. *Journal of Thermal Analysis and Calorimetry*, 150(11), 8229-8239.
+-	Luo, Z., Wang, H., **Huang, Y.**, Shen, P., Zheng, E., & Zhang, H. (2025). Nondestructive detection of CFRP subsurface defects using transient lock-in thermography. *Journal of Thermal Analysis and Calorimetry*, 150(11), 8229-8239.
 [[HTML]](https://doi.org/10.1007/s10973-024-13130-7)
 
 
--	`Huang, Y.`, Ni, H., & Wang, X. (2024). Optimizing laser surface texturing effect via synergy of Burst-mode and advanced scanning paths. *Applied Physics B*, 130(11), 195.
+-	**Huang, Y.**, Ni, H., & Wang, X. (2024). Optimizing laser surface texturing effect via synergy of Burst-mode and advanced scanning paths. *Applied Physics B*, 130(11), 195.
 [[HTML]](https://doi.org/10.1007/s00340-024-08337-3)
 
 
