@@ -107,3 +107,43 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.author-name {
+    font-weight: bold;
+    color: #000;
+    border-bottom: 2px solid #000;
+}
+
+/* Gallery: text on top, images below in a wrapping row */
+.gallery-item {
+    padding: 1.5em 0;
+    border-bottom: 1px #efefef solid;
+}
+
+.gallery-text {
+    margin-bottom: 1em;
+}
+
+.gallery-text p {
+    margin: 0.3em 0;
+}
+
+.gallery-images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8em;
+}
+
+.gallery-images img {
+    height: 220px;
+    width: auto;
+    object-fit: cover;
+    border-radius: 4px;
+    box-shadow: 3px 3px 6px #888;
+}
+
+@media (max-width: 600px) {
+    .gallery-images img {
+        height: 150px;
+    }
+}

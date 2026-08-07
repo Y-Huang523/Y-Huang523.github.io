@@ -16,12 +16,17 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "wdm", ">= 0.1.0" if Gem.win_platform?
+
+# Windows 没有自带时区数据库，tzinfo 需要这个 gem
+gem "tzinfo-data" if Gem.win_platform?
+
+# github-pages 自带的 webrick 约束允许 1.9.x，但 jekyll 3.x 配 1.8 更稳
+gem "webrick", "~> 1.8.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
-  gem 'hawkins'
 end
