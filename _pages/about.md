@@ -35,10 +35,10 @@ My research focuses on:
 
 # 🔥 News {#news}
 
-- *2026.08*: &nbsp;🎉🎉 Our paper has been accepted for publication in *Langmuir*. Congratulations to everyone involved!
-- *2026.07*: &nbsp;🎉🎉 I participated in the Outstanding Mainland Students Summer Camp hosted by the University of Macau.
-- *2025.11*: &nbsp;🎉🎉 I attended the Guangdong Province Postgraduate Academic Forum hosted by Southern University of Science and Technology (SUSTech), and delivered both an oral and a poster presentation. [[News]](https://mp.weixin.qq.com/s/FwNMWyeoKAQWpkgY9_B6wQ)
-- *2025.10*: &nbsp;🎉🎉 I attended the Cross-disciplinary Science Forum hosted by Xiamen University and delivered a poster presentation. [[News]](https://gs.xmu.edu.cn/info/1441/56582.htm)
+- *2026.08*: &nbsp;🎉🎉 Our paper has been accepted for publication in *Langmuir*.
+- *2026.07*: &nbsp;🎉🎉 I participated in the Summer Camp for Outstanding Mainland Students hosted by the University of Macau. [**[News]**](https://iapme.um.edu.mo/news-20260716_summercamp/)
+- *2025.11*: &nbsp;🎉🎉 I attended the Guangdong Province Postgraduate Academic Forum hosted by Southern University of Science and Technology (SUSTech), and delivered both an oral and a poster presentation. [**[News]**](https://mp.weixin.qq.com/s/FwNMWyeoKAQWpkgY9_B6wQ)
+- *2025.10*: &nbsp;🎉🎉 I attended the Cross-disciplinary Science Forum hosted by Xiamen University and delivered a poster presentation. [**[News]**](https://gs.xmu.edu.cn/info/1441/56582.htm)
 
 # 📝 Publications {#publications}
 
@@ -46,18 +46,18 @@ My research focuses on:
 <div class='paper-box-text' markdown="1">
 
 -	Zhou, Z., Chen, H., Yang, J., Jin, H., Xu, F., Jiang, Y., Jiang, A, <span class="author-name">Huang, Y.</span>, Huang, J., He, Y., Sun, D. & Chen, S. (2026). A Photocurable Conductive Hydrogel for Force Sensing of Cross-Type Muscle Tissue. *ACS Applied Materials & Interfaces*, 18(11), 16045-16055. 
-[[HTML]](https://doi.org/10.1021/acsami.5c23060) 
+[**[HTML]**](https://doi.org/10.1021/acsami.5c23060) 
 
 </div>
 </div>
 
 
 -	Luo, Z., Wang, H., <span class="author-name">Huang, Y.</span>, Shen, P., Zheng, E., & Zhang, H. (2025). Nondestructive detection of CFRP subsurface defects using transient lock-in thermography. *Journal of Thermal Analysis and Calorimetry*, 150(11), 8229-8239.
-[[HTML]](https://doi.org/10.1007/s10973-024-13130-7)
+[**[HTML]**](https://doi.org/10.1007/s10973-024-13130-7)
 
 
 -	<span class="author-name">Huang, Y.</span>, Ni, H., & Wang, X. (2024). Optimizing laser surface texturing effect via synergy of Burst-mode and advanced scanning paths. *Applied Physics B*, 130(11), 195.
-[[HTML]](https://doi.org/10.1007/s00340-024-08337-3)
+[**[HTML]**](https://doi.org/10.1007/s00340-024-08337-3)
 
 
 
@@ -81,6 +81,7 @@ My research focuses on:
 </div>
 <div class="gallery-images">
 <img src="images/202607_1.jpg" alt="照片1">
+<img src="images/202607_2.jpg" alt="照片1">
 </div>
 </div>
 
@@ -90,9 +91,9 @@ My research focuses on:
 
 </div>
 <div class="gallery-images">
-<img src="images/202511_2.jpg" alt="照片2">
-<img src="images/202511_3.jpg" alt="照片3">
-<img src="images/202511_4.jpg" alt="照片4">
+<img src="images/202511_2.jpg" alt="照片1">
+<img src="images/202511_3.jpg" alt="照片2">
+<img src="images/202511_4.jpg" alt="照片3">
 </div>
 </div>
 
