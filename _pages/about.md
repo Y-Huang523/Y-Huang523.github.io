@@ -35,6 +35,8 @@ My research focuses on:
 
 # 🔥 News {#news}
 
+
+- *2026.08*: &nbsp;🎉🎉 Our paper has been accepted for publication in *Advanced Functional Materials*.
 - *2026.08*: &nbsp;🎉🎉 Our paper has been accepted for publication in *Langmuir*.
 - *2026.07*: &nbsp;🎉🎉 I participated in the Summer Camp for Outstanding Mainland Students hosted by the University of Macau. [**[News]**](https://iapme.um.edu.mo/news-20260716_summercamp/)
 - *2025.11*: &nbsp;🎉🎉 I attended the Guangdong Province Postgraduate Academic Forum hosted by Southern University of Science and Technology (SUSTech), and delivered both an oral and a poster presentation. [**[News]**](https://mp.weixin.qq.com/s/FwNMWyeoKAQWpkgY9_B6wQ)
