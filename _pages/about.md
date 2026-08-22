@@ -35,39 +35,43 @@ My research focuses on:
 
 # 🔥 News {#news}
 
-
-- *2026.08*: &nbsp;🎉🎉 Our paper has been accepted for publication in *Advanced Functional Materials*.
-- *2026.08*: &nbsp;🎉🎉 Our paper has been accepted for publication in *Langmuir*.
-- *2026.07*: &nbsp;🎉🎉 I participated in the Summer Camp for Outstanding Mainland Students hosted by the University of Macau. [**[News]**](https://iapme.um.edu.mo/news-20260716_summercamp/)
-- *2025.11*: &nbsp;🎉🎉 I attended the Guangdong Province Postgraduate Academic Forum hosted by Southern University of Science and Technology (SUSTech), and delivered both an oral and a poster presentation. [**[News]**](https://mp.weixin.qq.com/s/FwNMWyeoKAQWpkgY9_B6wQ)
-- *2025.10*: &nbsp;🎉🎉 I attended the Cross-disciplinary Science Forum hosted by Xiamen University and delivered a poster presentation. [**[News]**](https://gs.xmu.edu.cn/info/1441/56582.htm)
+- **2026.08**: Our paper has been accepted for publication in *Advanced Functional Materials*.&nbsp;🎉🎉
+- **2026.08**: Our paper has been accepted for publication in *Langmuir*.&nbsp;🎉🎉
+- **2026.07**: I participated in the Summer Camp for Outstanding Mainland Students hosted by the University of Macau. [**[News]**](https://iapme.um.edu.mo/news-20260716_summercamp/)
+- **2025.11**: I attended the Guangdong Province Postgraduate Academic Forum hosted by Southern University of Science and Technology (SUSTech), and delivered both an oral and a poster presentation. [**[News]**](https://mp.weixin.qq.com/s/FwNMWyeoKAQWpkgY9_B6wQ)
+- **2025.10**: I attended the Cross-disciplinary Science Forum hosted by Xiamen University and delivered a poster presentation. [**[News]**](https://gs.xmu.edu.cn/info/1441/56582.htm)
 
 # 📝 Publications {#publications}
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AMI2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AFM2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Zhou, Z., Chen, H., Yang, J., Jin, H., Xu, F., Jiang, Y., Jiang, A, <span class="author-name">Huang, Y.</span>, Huang, J., He, Y., Sun, D. & Chen, S. (2026). A Photocurable Conductive Hydrogel for Force Sensing of Cross-Type Muscle Tissue. *ACS Applied Materials & Interfaces*, 18(11), 16045-16055. 
+- <span class="author-name">Huang, Y.</span>, Jin H., Ding Z., Hong X., Yang S., Jiang A., Qiu B., Chen H., Lu J., Chen S., Sun D. (2026) In Situ Grown Hydrogel Coatings with Robust Interfaces for Skinned Soft Devices. *Advanced Functional Materials*. [**[HTML]**](https://doi.org/10.1002/adfm.77822)
+
+</div>
+</div>
+
+- Jiang A., Xu F., Jiang Y., Chen H., <span class="author-name">Huang Y.</span>, Zhang C., Chen Y., Mu M., Chen H., Chen S., Sun D. (2026) Surface Free Energy Regulation Enabling High-Efficiency Material Utilization in Surface Tension-Confined DLP Technology. *Langmuir*. [**[HTML]**](https://doi.org/10.1021/acs.langmuir.6c02155)
+
+
+-	Zhou Z., Chen H., Yang J., Jin H., Xu F., Jiang Y., Jiang A, <span class="author-name">Huang Y.</span>, Huang J., He Y., Sun D., Chen S. (2026) A Photocurable Conductive Hydrogel for Force Sensing of Cross-Type Muscle Tissue. *ACS Applied Materials & Interfaces*, 18(11), 16045-16055. 
 [**[HTML]**](https://doi.org/10.1021/acsami.5c23060) 
 
-</div>
-</div>
 
-
--	Luo, Z., Wang, H., <span class="author-name">Huang, Y.</span>, Shen, P., Zheng, E., & Zhang, H. (2025). Nondestructive detection of CFRP subsurface defects using transient lock-in thermography. *Journal of Thermal Analysis and Calorimetry*, 150(11), 8229-8239.
+-	Luo Z., Wang H., <span class="author-name">Huang Y.</span>, Shen P., Zheng E., Zhang H. (2025) Nondestructive detection of CFRP subsurface defects using transient lock-in thermography. *Journal of Thermal Analysis and Calorimetry*, 150(11), 8229-8239.
 [**[HTML]**](https://doi.org/10.1007/s10973-024-13130-7)
 
 
--	<span class="author-name">Huang, Y.</span>, Ni, H., & Wang, X. (2024). Optimizing laser surface texturing effect via synergy of Burst-mode and advanced scanning paths. *Applied Physics B*, 130(11), 195.
+-	<span class="author-name">Huang Y.</span>, Ni H., Wang X. (2024) Optimizing laser surface texturing effect via synergy of Burst-mode and advanced scanning paths. *Applied Physics B*, 130(11), 195.
 [**[HTML]**](https://doi.org/10.1007/s00340-024-08337-3)
 
 
 
-# 🎖 Selected Honors and Awards {#selected-honors-and-awards}
-- **First Prize for Poster Presentation**, Guangdong Province Postgraduate Academic Forum *2025*
-- **Second Prize for Oral Presentation**, Guangdong Province Postgraduate Academic Forum *2025*
+# 🎖 Honors and Awards {#honors-and-awards}
+
 - **Outstanding Graduate**, Nanjing Agricultural University *2024*
-- **Chuangli Chuandong Scholarship** (Top 2%), Nanjing Agricultural University *2023*
+- **Chuangli Scholarship**, Nanjing Agricultural University *2023*
+- **Outstanding Youth League Cadre**, Nanjing Agricultural University *2023*
 
 
 # ⚙️ Services {#services}
