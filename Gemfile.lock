@@ -280,14 +280,12 @@ GEM
       ethon (>= 0.18.0)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
-    tzinfo-data (1.2026.3)
-      tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
     uri (1.1.1)
-    wdm (0.2.0)
     webrick (1.8.2)
 
 PLATFORMS
+  arm64-darwin-25
   universal-darwin-19
   x64-mingw-ucrt
   x86_64-linux
@@ -296,9 +294,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed
   jekyll-sitemap
-  tzinfo-data
-  wdm (>= 0.1.0)
   webrick (~> 1.8.0)
 
 BUNDLED WITH
-   2.2.19
+  4.0.22

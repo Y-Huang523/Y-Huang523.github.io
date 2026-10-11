@@ -70,7 +70,7 @@ My research focuses on:
 # 🎖 Honors and Awards {#honors-and-awards}
 
 - **Outstanding Graduate**, Nanjing Agricultural University *2024*
-- **Chuangli Scholarship**, Nanjing Agricultural University *2023*
+- **Chuangli Enterprise Scholarship**, Nanjing Agricultural University *2023*
 - **Outstanding Youth League Cadre**, Nanjing Agricultural University *2023*
 
 
