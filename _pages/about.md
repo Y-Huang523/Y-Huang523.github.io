@@ -35,10 +35,11 @@ My research focuses on:
 
 # 🔥 News {#news}
 
+- **2026.10**: I attended the Greater Bay Area Graduate Research Forum hosted by The Chinese University of Hong Kong (Shenzhen), and delivered a poster presentation. [**[News]**](https://mp.weixin.qq.com/s/DsKSBg9NOu-V8-1FEL97qw)
 - **2026.08**: Our paper has been accepted for publication in *Advanced Functional Materials*.&nbsp;🎉🎉
 - **2026.08**: Our paper has been accepted for publication in *Langmuir*.&nbsp;🎉🎉
 - **2026.07**: I participated in the Summer Camp for Outstanding Mainland Students hosted by the University of Macau. [**[News]**](https://iapme.um.edu.mo/news-20260716_summercamp/)
-- **2025.11**: I attended the Guangdong Province Postgraduate Academic Forum hosted by Southern University of Science and Technology (SUSTech), and delivered both an oral and a poster presentation. [**[News]**](https://mp.weixin.qq.com/s/FwNMWyeoKAQWpkgY9_B6wQ)
+- **2025.11**: I attended the Guangdong Province Graduate Academic Forum hosted by Southern University of Science and Technology (SUSTech), and delivered both an oral and a poster presentation. [**[News]**](https://mp.weixin.qq.com/s/FwNMWyeoKAQWpkgY9_B6wQ)
 - **2025.10**: I attended the Cross-disciplinary Science Forum hosted by Xiamen University and delivered a poster presentation. [**[News]**](https://gs.xmu.edu.cn/info/1441/56582.htm)
 
 # 📝 Publications {#publications}
@@ -82,6 +83,18 @@ My research focuses on:
 
 <div class="gallery-item">
 <div class="gallery-text" markdown="1">
+**2026.10: The Greater Bay Area Graduate Research Forum at the Chinese University of Hong Kong (Shenzhen)**
+
+</div>
+<div class="gallery-images">
+<img src="images/202610_1.jpg" alt="照片1">
+<img src="images/202610_2.jpg" alt="照片1">
+</div>
+</div>
+
+
+<div class="gallery-item">
+<div class="gallery-text" markdown="1">
 **2026.07: The Outstanding Mainland Students Summer Camp at the University of Macau**
 
 </div>
@@ -93,7 +106,7 @@ My research focuses on:
 
 <div class="gallery-item">
 <div class="gallery-text" markdown="1">
-**2025.11: The Guangdong Province Postgraduate Academic Forum**
+**2025.11: The Guangdong Province Graduate Academic Forum**
 
 </div>
 <div class="gallery-images">
