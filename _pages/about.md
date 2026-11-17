@@ -87,8 +87,8 @@ My research focuses on:
 
 </div>
 <div class="gallery-images">
-<img src="images/202610_1.jpg" alt="照片1">
-<img src="images/202610_2.jpg" alt="照片2">
+<img src="images/202610_1.png" alt="照片1">
+<img src="images/202610_2.png" alt="照片2">
 </div>
 </div>
 
